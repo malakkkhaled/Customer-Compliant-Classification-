@@ -1,4 +1,4 @@
-# Customer-Compliant-Classification-
+# Customer-Compliant-Classification
 The dataset is from the Consumer Financial Protection Bureau (CFPB) Consumer Complaint Database, which provides publicly available financial complaint records submitted by consumers.
 
 The data includes real customer complaints related to financial products and services such as credit cards, mortgages, bank accounts, and debt collection.
