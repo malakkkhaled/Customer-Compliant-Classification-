@@ -45,7 +45,7 @@ This project follows a complete end-to-end NLP workflow:
 - Converting text into numerical features using TF-IDF
 - Preparing input features (X) and target labels (y)
 
-### 6. Model Building (Upcoming/Optional)
+### 6. Model Building 
 - Training machine learning models such as Logistic Regression
 - Evaluating model performance using accuracy and classification report
 
@@ -57,7 +57,7 @@ This project follows a complete end-to-end NLP workflow:
 
 This project was built using the following tools and libraries:
 
-- Python 🐍
+- Python 
 - Pandas & NumPy (Data Manipulation)
 - Matplotlib & Seaborn (Data Visualization)
 - spaCy (Natural Language Processing)
