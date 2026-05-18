@@ -145,12 +145,11 @@ streamlit run app.py
 ```
 Customer-Compliant-Classification-/
 │
-├── data/                   # Dataset folder (not tracked by Git)
-├── notebooks/              # Jupyter notebooks
-├── app.py                  # Streamlit deployment app
-├── requirements.txt        # Python dependencies
-├── .gitignore              # Git ignore rules
-└── README.md               # Project documentation
+├── data/                   
+├── notebooks/              
+├── app.py                  
+├── requirements.txt        
+└── README.md               
 ```
 
 ---
