@@ -10,14 +10,14 @@ An **NLP-based machine learning pipeline** that automatically classifies custome
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Given a free-text complaint written by a consumer, the model predicts one of the predefined financial product categories such as:
 
-- 💳 Credit Card
-- 🏠 Mortgage
-- 🏦 Bank Account
-- 💰 Debt Collection
+-  Credit Card
+-  Mortgage
+-  Bank Account
+-  Debt Collection
 
 This helps financial institutions better understand customer issues, improve response time, and enhance service quality.
 
@@ -30,12 +30,12 @@ This helps financial institutions better understand customer issues, improve res
 🔗 [Official CFPB Website](https://www.consumerfinance.gov/data-research/consumer-complaints/)
 
 > ⚠️ The dataset is not included in this repository due to its large size.  
-> 📥 **[Download Dataset from Google Drive](https://drive.google.com/drive/folders/1o5gazR7bkwirTYvuL1d2Uu54eG1qg6Qp?usp=sharing)**  
+>  **[Download Dataset from Google Drive](https://drive.google.com/drive/folders/1o5gazR7bkwirTYvuL1d2Uu54eG1qg6Qp?usp=sharing)**  
 > After downloading, place the file inside a `/data` folder in the project root.
 
 ---
 
-## ⚙️ Project Pipeline
+##  Project Pipeline
 
 ```
 Raw Data → Cleaning → EDA → Text Preprocessing → Feature Engineering → Model Training → Streamlit App
@@ -78,7 +78,7 @@ Raw Data → Cleaning → EDA → Text Preprocessing → Feature Engineering →
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Libraries |
 |----------|-----------|
@@ -102,7 +102,7 @@ Raw Data → Cleaning → EDA → Text Preprocessing → Feature Engineering →
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
@@ -125,7 +125,7 @@ python -m spacy download en_core_web_sm
 
 ### 4. Download the dataset
 
-📥 [Download from Google Drive](https://drive.google.com/drive/folders/1o5gazR7bkwirTYvuL1d2Uu54eG1qg6Qp?usp=sharing)
+ [Download from Google Drive](https://drive.google.com/drive/folders/1o5gazR7bkwirTYvuL1d2Uu54eG1qg6Qp?usp=sharing)
 
 Place the downloaded file in:
 ```
@@ -140,7 +140,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Customer-Compliant-Classification-/
