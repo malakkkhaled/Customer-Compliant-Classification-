@@ -95,7 +95,7 @@ Raw Data → Cleaning → EDA → Text Preprocessing → Feature Engineering →
 
 | Engineer | Role | Responsibilities |
 |----------|------|-----------------|
-| Engineer #1 | Data Preprocessing & EDA | Data loading, JSON normalization, cleaning, duplicate removal, missing values, EDA, visualization, text preprocessing, lemmatization, noun extraction |
+| Engineer #1 | Data Preprocessing and EDA | Data loading, JSON normalization, cleaning, duplicate removal, missing values, EDA, visualization, text preprocessing, lemmatization, noun extraction |
 | Engineer #2 | Feature Engineering | TF-IDF vectorization, label encoding, feature preparation, train-test split |
 | Engineer #3 | Machine Learning | Model training, evaluation, classification reports, model comparison |
 | Engineer #4 | Deployment / UI | Streamlit GUI, model integration, real-time prediction interface |
