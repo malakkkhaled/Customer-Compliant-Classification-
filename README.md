@@ -70,7 +70,7 @@ Raw Data → Cleaning → EDA → Text Preprocessing → Feature Engineering →
 
 ### 6. Model Building
 - Training Logistic Regression model
-- Evaluating performance using accuracy & classification report
+- Evaluating performance using accuracy and classification report
 
 ### 7. Visualization
 - WordCloud for most frequent words
